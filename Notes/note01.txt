@@ -1,3 +1,7 @@
+////////////chadcn 
+daisyui
+
+
 npx create-next-app@latest . 
 . to make it in current directory
 
