@@ -1,0 +1,43 @@
+npx create-next-app@latest . 
+. to make it in current directory
+
+=========================================
+it is 2 type of routing
+1)APP ROUTER
+2)page router old
+
+=========================================
+import alias =no
+@ to point to root structure
+=========================================
+every foldercan have layout and page
+children comes from page
+=========================================
+: Readonly<{
+  children: React.ReactNode;
+}>
+
+rhis is typescript and defines it is readonly
+React.ReactNode type ka parametyer accept kar rahe hai like string
+react node types
+=========================================
+
+in nextjs jese jese folder banate hai automatically routes bante jate haino need for extra package
+but file ka naam page.tsx hone chahiye
+=========================================
+outer layout goes iniside and inside
+=========================================
+rfce
+  darkMode: "class",  in tailwind config
+    <html lang="en" className="dark">
+
+https://ui.aceternity.com/components/navbar-menu
+=========================================
+
+we annot use react hook directly
+='use client';
+at above
+
+=========================================
+
+Link so that a tag do not reload
