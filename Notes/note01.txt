@@ -45,3 +45,5 @@ at above
 =========================================
 
 Link so that a tag do not reload
+=========================================
+in nextjs we need to determine wheather it is connected to db in login/signup in each of  them
