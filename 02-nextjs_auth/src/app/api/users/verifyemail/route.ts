@@ -29,7 +29,7 @@ export async function POST(request: NextRequest) {
         message: "Email verified successfully",
         success: true,
       },
-      { status: 500 }
+      { status: 200 }
     );
 
     return NextResponse.json({ message: "Email verified successfully" });
