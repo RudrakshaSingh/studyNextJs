@@ -47,3 +47,11 @@ at above
 Link so that a tag do not reload
 =========================================
 in nextjs we need to determine wheather it is connected to db in login/signup in each of  them
+
+
+================================
+DYNAMIC ROUTES
+[id] folder in profile to gert dynamic data in page
+================================
+route protection
+nextjs middleware in src folder
